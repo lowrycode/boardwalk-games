@@ -119,6 +119,10 @@ h2 {
     font-size: 1.9rem;
 }
 
+#contact .table-dark * {
+    background-color: transparent;
+}
+
 /* Grid visualisation for testing */
 /* .container,
 .row {
