@@ -118,8 +118,8 @@ h2 {
 
 /* Favourites section */
 
-#favourites .card,
-#favourites .card * {
+#fav-games .card,
+#fav-games .card * {
     border: none;
 }
 
@@ -130,6 +130,7 @@ h2 {
     color: white;
     padding-bottom: 3rem;
 }
+
 
 #contact h2 {
     color: white;
