@@ -100,6 +100,15 @@ h2 {
     background-color: transparent;
 }
 
+
+/* Events section */
+
+#discount {
+    background-color: var(--highlight-color);
+    color: white;
+    padding: 5px 10px;
+}
+
 /* New Games section */
 
 #new-games .card,
@@ -170,6 +179,10 @@ h2 {
     /* Make service cards the same height */
     #services .card-body {
         min-height: 191px;
+    }
+
+    #discount {
+        width: fit-content;
     }
 }
 
